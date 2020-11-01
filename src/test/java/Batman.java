@@ -1,7 +1,5 @@
 public class Batman {
     public static void main(String[] args) {
         System.out.println("I will catch you Joker");
-        //Batman has cool Bat Mobile
-        //Batman has cool motor
     }
 }
